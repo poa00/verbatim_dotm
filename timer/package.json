@@ -12,9 +12,9 @@
   },
   "devDependencies": {
     "@speechanddebate/eslint-config-nsda": "^1.0.19",
-    "@tauri-apps/cli": "^1.2.0",
+    "@tauri-apps/cli": "^1.5.6",
     "eslint": "^8.28.0",
-    "webpack": "^5.75.0",
+    "webpack": "^5.76.0",
     "webpack-cli": "^5.0.0",
     "webpack-dev-server": "^4.11.1"
   },
